@@ -1,8 +1,8 @@
-package com.zero.record.servlet;
+package com.zero.record.ECommerce.servlet;
 
 
 
-import com.zero.record.pojo.Result;
+import com.zero.record.ECommerce.pojo.Result;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

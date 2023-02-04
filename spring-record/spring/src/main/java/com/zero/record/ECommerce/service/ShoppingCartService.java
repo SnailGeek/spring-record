@@ -1,6 +1,4 @@
-package com.zero.record.service;
-
-import com.zero.record.pojo.Result;
+package com.zero.record.ECommerce.service;
 
 public interface ShoppingCartService {
 
