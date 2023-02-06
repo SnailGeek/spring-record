@@ -1,4 +1,4 @@
-package com.zero.record.ECommerce.utils;
+package com.zero.record.utils;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JavaType;

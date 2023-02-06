@@ -1,4 +1,4 @@
-package com.zero.record.ECommerce.utils;
+package com.zero.record.utils;
 
 import com.alibaba.druid.pool.DruidDataSource;
 

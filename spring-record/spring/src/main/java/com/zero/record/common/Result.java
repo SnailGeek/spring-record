@@ -1,4 +1,4 @@
-package com.zero.record.ECommerce.pojo;
+package com.zero.record.common;
 
 /**
  * @author 应癫
